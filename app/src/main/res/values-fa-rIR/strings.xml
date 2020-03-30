@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">پروفایل</string>
+    <string name="main_profile_image_description">عکس پروفایل</string>
+    <string name="main_user_name">نام کاربری</string>
+    <string name="main_edit_profile">ویرایش پروفایل</string>
+    <string name="main_done">تایید</string>
+    <string name="main_view_website">مشاهده وب سایت</string>
+    <string name="main_android_development">توسعه اپلیکیشن های اندرویدی</string>
+    <string name="main_ui_design">ساخت رابط کاربری</string>
+    <string name="main_deep_learning">یادگیری عمیق</string>
+    <string name="main_skills">مهارت ها</string>
+    <string name="main_province_city">استان, شهر</string>
+    <string name="main_gilan_rasht">گیلان, رشت</string>
+    <string name="main_tehran_tehran">تهران, تهران</string>
+    <string name="main_alborz_karaj">البرز, کرج</string>
+    <string name="main_save_information">ذخیره اطلاعات</string>
+    <string name="editProfile_et_hint">نام و نام خانوادگی خود را وارد کنید...</string>
+</resources>

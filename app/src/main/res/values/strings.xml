@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="main_profile_image_description">Profile Image</string>
+    <string name="main_user_name">User Name</string>
+    <string name="main_edit_profile">Edit Profile</string>
+    <string name="main_done">Done</string>
+    <string name="main_view_website">View Website</string>
+    <string name="main_android_development">Android Development</string>
+    <string name="main_ui_design">Ui Design</string>
+    <string name="main_deep_learning">Deep Learning</string>
+    <string name="main_skills">Skills</string>
+    <string name="main_province_city">Province, City</string>
+    <string name="main_gilan_rasht">Gilan, Rasht</string>
+    <string name="main_tehran_tehran">Tehran, Tehran</string>
+    <string name="main_alborz_karaj">Alborz, Karaj</string>
+    <string name="main_save_information">Save Information</string>
+    <string name="editProfile_et_hint">Enter Your FullName here...</string>
+</resources>
